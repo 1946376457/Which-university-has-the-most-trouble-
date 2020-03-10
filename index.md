@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 海南热带海洋学院破事就不少
 
 You can use the [editor on GitHub](https://github.com/1946376457/Which-university-has-the-most-trouble-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
